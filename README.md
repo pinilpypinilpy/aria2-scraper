@@ -10,4 +10,6 @@ cd aria2-scraper
 
 bash scrape+download.sh http://your.url.here/your/target/directory/here/
 
-note: I made this is 20sec and it will probably not work as intended
+output files are stored in the downloaded directory
+
+note: I made this is 20sec and it will probably not work as intended, I keep getting aria2 errors, but everything *should* work in the end
